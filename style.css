@@ -16,7 +16,6 @@ body {
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: #BBE9FF;
 }
 
 .main-content {
@@ -41,16 +40,18 @@ li {
 }
 
 button {
-    background-color: #F3F7EC;
+    background-color: #24a0ed;
     color: #040245;
     border: none;
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 10px 20px;
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
     width: 19rem;
     margin: 1rem 0.5rem;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 button:hover {
@@ -68,9 +69,4 @@ p {
     font-size: 14px;
     color: #666;
     margin-bottom: 10px;
-}
-.banner img{
-    width: 19rem;
-    height: 7rem;
-    margin: 1rem 0.5rem;
 }
