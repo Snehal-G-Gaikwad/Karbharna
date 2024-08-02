@@ -54,11 +54,6 @@ button {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
-button:hover {
-    background-color: #3e8e41;
-    border-radius: 5px;
-}
-
 h3 {
     font-size: 16px;
     color: #333;
